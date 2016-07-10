@@ -1,9 +1,0 @@
-c:\users\marcin\documents\visual studio 2013\Projects\sterHeli\sterHeli\bin\Debug\sterHeli.exe.config
-C:\Users\Marcin\Documents\Visual Studio 2013\Projects\sterHeli\sterHeli\bin\Debug\sterHeli.exe
-C:\Users\Marcin\Documents\Visual Studio 2013\Projects\sterHeli\sterHeli\bin\Debug\sterHeli.pdb
-C:\Users\Marcin\Documents\Visual Studio 2013\Projects\sterHeli\sterHeli\obj\Debug\sterHeli.csprojResolveAssemblyReference.cache
-C:\Users\Marcin\Documents\Visual Studio 2013\Projects\sterHeli\sterHeli\obj\Debug\sterHeli.Form1.resources
-C:\Users\Marcin\Documents\Visual Studio 2013\Projects\sterHeli\sterHeli\obj\Debug\sterHeli.Properties.Resources.resources
-C:\Users\Marcin\Documents\Visual Studio 2013\Projects\sterHeli\sterHeli\obj\Debug\sterHeli.csproj.GenerateResource.Cache
-C:\Users\Marcin\Documents\Visual Studio 2013\Projects\sterHeli\sterHeli\obj\Debug\sterHeli.exe
-C:\Users\Marcin\Documents\Visual Studio 2013\Projects\sterHeli\sterHeli\obj\Debug\sterHeli.pdb
